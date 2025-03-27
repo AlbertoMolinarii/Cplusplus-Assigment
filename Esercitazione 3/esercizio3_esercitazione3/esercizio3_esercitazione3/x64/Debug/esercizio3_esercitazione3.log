@@ -1,0 +1,4 @@
+﻿  es3.cpp
+C:\Users\albim\OneDrive\Desktop\C++\esercizio3_esercitazione3\esercizio3_esercitazione3\es3.h(13,4): error C3861: 'positon': identificatore non trovato
+C:\Users\albim\OneDrive\Desktop\C++\esercizio3_esercitazione3\esercizio3_esercitazione3\es3.h(33): message : vedere il riferimento all'istanza 'Pair<T>' di modello classe di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\esercizio3_esercitazione3\esercizio3_esercitazione3\es3.h(15,21): error C3861: 'secondo': identificatore non trovato

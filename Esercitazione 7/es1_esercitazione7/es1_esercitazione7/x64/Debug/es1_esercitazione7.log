@@ -1,0 +1,8 @@
+﻿  Origine.cpp
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 7\es1_esercitazione7\es1_esercitazione7\binary_tree.h(60,24): error C2760: errore di sintassi: '>' non è previsto in questo punto; è previsto 'espressione'
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 7\es1_esercitazione7\es1_esercitazione7\binary_tree.h(148): message : vedere il riferimento all'istanza 'BinaryTree<T>' di modello classe di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 7\es1_esercitazione7\es1_esercitazione7\binary_tree.h(60,24): error C3878: errore di sintassi: token imprevisto '>' dopo 'expression'
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 7\es1_esercitazione7\es1_esercitazione7\binary_tree.h(60,24): message : recupero errori ignorato: '> identificatore'
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 7\es1_esercitazione7\es1_esercitazione7\binary_tree.h(74,24): error C2760: errore di sintassi: '>' non è previsto in questo punto; è previsto 'espressione'
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 7\es1_esercitazione7\es1_esercitazione7\binary_tree.h(74,24): error C3878: errore di sintassi: token imprevisto '>' dopo 'expression'
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 7\es1_esercitazione7\es1_esercitazione7\binary_tree.h(74,24): message : recupero errori ignorato: '> identificatore'

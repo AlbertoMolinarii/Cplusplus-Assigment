@@ -1,0 +1,5 @@
+﻿  Origine.cpp
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 9\es1_esercitazione9\es1_esercitazione9\symbol_table_item.h(76,19): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 9\es1_esercitazione9\es1_esercitazione9\Origine.cpp(73): message : vedere il riferimento all'istanza 'void lprint<Item>(List<Item> &)' della funzione modello di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 9\es1_esercitazione9\es1_esercitazione9\symbol_table_item.h(92,17): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+  es1_esercitazione9.vcxproj -> C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 9\es1_esercitazione9\x64\Debug\es1_esercitazione9.exe

@@ -1,0 +1,7 @@
+﻿  Origine.cpp
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es1_esercitazione6\es1_esercitazione6\Origine.cpp(42,34): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es1_esercitazione6\es1_esercitazione6\Origine.cpp(46,34): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es1_esercitazione6\es1_esercitazione6\listTest.h(49,19): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es1_esercitazione6\es1_esercitazione6\Origine.cpp(48): message : vedere il riferimento all'istanza 'void lprint<Item>(List<Item> &)' della funzione modello di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es1_esercitazione6\es1_esercitazione6\listTest.h(65,17): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+  es1_esercitazione6.vcxproj -> C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es1_esercitazione6\x64\Debug\es1_esercitazione6.exe

@@ -1,0 +1,17 @@
+﻿  Origine.cpp
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\listTest.h(49,19): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(24): message : vedere il riferimento all'istanza 'void lprint<E>(List<E> &)' della funzione modello di cui è in corso la compilazione
+          with
+          [
+              E=Item
+          ]
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\listTest.h(65,17): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(11,1): error C2660: 'LList<Item>::currPos': la funzione non accetta 1 argomenti
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\llist.h(99,9): message : vedere la dichiarazione di 'LList<Item>::currPos'
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(26): message : vedere il riferimento all'istanza 'void insertion<Item>(LList<Item> &)' della funzione modello di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(11,40): error C3861: 'comp': identificatore non trovato
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(11,40): message : 'comp': la funzione non è stata dichiarata nel contesto della definizione del modello e può essere trovata solo tramite la ricerca dipendente da argomenti nel contesto di creazione di un'istanza
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(12,1): error C2660: 'LList<Item>::currPos': la funzione non accetta 1 argomenti
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\llist.h(99,9): message : vedere la dichiarazione di 'LList<Item>::currPos'
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(12,4): error C3861: 'exch': identificatore non trovato
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es3_esercitazione6\es3_esercitazione6\Origine.cpp(12,4): message : 'exch': la funzione non è stata dichiarata nel contesto della definizione del modello e può essere trovata solo tramite la ricerca dipendente da argomenti nel contesto di creazione di un'istanza

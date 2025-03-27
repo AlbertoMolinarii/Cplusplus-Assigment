@@ -1,0 +1,12 @@
+﻿  Origine.cpp
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es4_esercitazione6\es4_esercitazione6\Origine.cpp(18,14): warning C4101: 'età': variabile locale senza riferimenti
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es4_esercitazione6\es4_esercitazione6\Origine.cpp(19,8): warning C4101: 'voto': variabile locale senza riferimenti
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es4_esercitazione6\es4_esercitazione6\Origine.cpp(11,31): error C3861: 'comp': identificatore non trovato
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es4_esercitazione6\es4_esercitazione6\Origine.cpp(11,31): message : 'comp': la funzione non è stata dichiarata nel contesto della definizione del modello e può essere trovata solo tramite la ricerca dipendente da argomenti nel contesto di creazione di un'istanza
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es4_esercitazione6\es4_esercitazione6\Origine.cpp(37): message : vedere il riferimento all'istanza 'void insertion<Item>(E [],int,int)' della funzione modello di cui è in corso la compilazione
+          with
+          [
+              E=Item
+          ]
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es4_esercitazione6\es4_esercitazione6\Origine.cpp(12,4): error C3861: 'exch': identificatore non trovato
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 6\es4_esercitazione6\es4_esercitazione6\Origine.cpp(12,4): message : 'exch': la funzione non è stata dichiarata nel contesto della definizione del modello e può essere trovata solo tramite la ricerca dipendente da argomenti nel contesto di creazione di un'istanza

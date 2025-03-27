@@ -1,0 +1,4 @@
+﻿  Origine.cpp
+C:\Users\albim\OneDrive\Desktop\C++\link.h(15,41): error C3861: 'NULL': identificatore non trovato
+C:\Users\albim\OneDrive\Desktop\C++\link.h(18): message : vedere il riferimento all'istanza 'Link<E>' di modello classe di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\link.h(17,23): error C3861: 'NULL': identificatore non trovato

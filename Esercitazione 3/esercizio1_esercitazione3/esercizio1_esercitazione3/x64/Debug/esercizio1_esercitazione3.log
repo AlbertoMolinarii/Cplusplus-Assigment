@@ -1,0 +1,25 @@
+﻿  es1.cpp
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es_1.h(32,1): error C2664: 'maggiore1<int>::maggiore1(T,T)': impossibile convertire l'argomento 1 da 'maggiore1<int>' a 'T'
+          with
+          [
+              T=int
+          ]
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es_1.h(32,23): message : Non è disponibile alcun operatore di conversione definito dall'utente oppure non è possibile chiamare l'operatore
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es_1.h(9,2): message : vedere la dichiarazione di 'maggiore1<int>::maggiore1'
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es_1.h(30): message : durante la compilazione della funzione membro 'T maggiore2<T>::getMax(void)' di modello classe
+          with
+          [
+              T=int
+          ]
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es1.cpp(9): message : vedere il riferimento all'istanza 'T maggiore2<T>::getMax(void)' della funzione modello di cui è in corso la compilazione
+          with
+          [
+              T=int
+          ]
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es1.cpp(8): message : vedere il riferimento all'istanza 'maggiore2<int>' di modello classe di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es_1.h(34,1): error C2440: 'return': impossibile convertire da 'maggiore1<int>' a 'T'
+          with
+          [
+              T=int
+          ]
+C:\Users\albim\OneDrive\Desktop\C++\esercizio1_esercitazione3\esercizio1_esercitazione3\es_1.h(34,10): message : Non è disponibile alcun operatore di conversione definito dall'utente oppure non è possibile chiamare l'operatore

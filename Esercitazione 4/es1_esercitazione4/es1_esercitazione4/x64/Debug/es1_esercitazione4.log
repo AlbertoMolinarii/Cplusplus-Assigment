@@ -1,0 +1,5 @@
+﻿  es1.cpp
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 4\es1_esercitazione4\es1_esercitazione4\listTest.h(49,19): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 4\es1_esercitazione4\es1_esercitazione4\es1.cpp(53): message : vedere il riferimento all'istanza 'void lprint<Item>(List<Item> &)' della funzione modello di cui è in corso la compilazione
+C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 4\es1_esercitazione4\es1_esercitazione4\listTest.h(65,17): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+  es1_esercitazione4.vcxproj -> C:\Users\albim\OneDrive\Desktop\C++\Esercitazione 4\es1_esercitazione4\x64\Debug\es1_esercitazione4.exe
